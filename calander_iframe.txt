@@ -1,0 +1,9 @@
+<style>
+	.appointments { height: 1000px; }
+</style>
+
+<div class="appointments">
+	<script src='https://square.site/appointments/buyer/widget/jxjg48edzq3r0r/LXGVSTDV3NYVE.js'></script>
+</div>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&title=Who%20Cares%20Sailing&src=cG5xczJjdjcxNDJnMjUxNHNpdHNjZG0yZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
